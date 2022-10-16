@@ -91,7 +91,7 @@ No Terminal/Console:
 <h3>Autor</h3>
 
 <a href="https://www.linkedin.com/in/flaviohnm/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64323124?v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/20071376?s=400&u=f57fe11675194619ccb4e5909a76a6a2aa3a2096&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Flavio Monteiro</b></sub></a> <a href="https://www.instagram.com/flaviohnm/" title="Instagram"></a>
 
